@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[creatinglavie]]></title>
+        <description><![CDATA[creatinglavie]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 08 Nov 2015 18:16:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[I Buy Things Because They Are Pretty]]></title>
+            <description><![CDATA[<article><h1>I Buy Things Because They Are Pretty</h1><p>Introduction</p></article>]]></description>
+            <link>undefinedi-buy-things-because-they-are-pretty/index.html</link>
+            <guid isPermaLink="false">b119c705-a531-4e9b-abed-5f5b9c9517cc</guid>
+            <pubDate>Sun, 08 Nov 2015 18:16:22 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
