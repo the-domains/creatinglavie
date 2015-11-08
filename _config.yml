@@ -1,7 +1,7 @@
 name: creatinglavie
 favicon: null
-layout_spectrum: 0.4431461759377271
-typography_spectrum: 0.14219650300219655
+layout_spectrum: 0.75058
+typography_spectrum: 1
 title: Food Packaging Fanatic
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#ea465d'
     - '#46af7c'
   brandStrength: 0.4375
-  lightness: 0.5142399468459189
-  saturation: 0.19961031922139227
-  rhythmicContrast: 0.29878953960724175
+  lightness: 0.875
+  saturation: 0.875
+  rhythmicContrast: 0.75
 purpose: []
