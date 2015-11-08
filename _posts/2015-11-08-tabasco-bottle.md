@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Hand-cut paper illustration of a Tabasco bottle
-datePublished: '2015-11-08T18:47:25.779Z'
-dateModified: '2015-11-08T18:47:11.477Z'
+datePublished: '2015-11-08T18:50:36.383Z'
+dateModified: '2015-11-08T18:49:52.229Z'
 title: Tabasco Bottle
 authors: []
 publisher:
