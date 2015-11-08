@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[creatinglavie]]></title>
         <description><![CDATA[creatinglavie]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/creatinglavie/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 Nov 2015 18:16:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 08 Nov 2015 18:29:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/creatinglavie/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[I Buy Things Because They Are Pretty]]></title>
             <description><![CDATA[<article><h1>I Buy Things Because They Are Pretty</h1><p>Introduction</p></article>]]></description>
-            <link>undefinedi-buy-things-because-they-are-pretty/index.html</link>
+            <link>https://thegrid.ai/creatinglavie/i-buy-things-because-they-are-pretty/index.html</link>
             <guid isPermaLink="false">b119c705-a531-4e9b-abed-5f5b9c9517cc</guid>
             <pubDate>Sun, 08 Nov 2015 18:16:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ethos]]></title>
+            <description><![CDATA[<article><h1>Ethos</h1><p>Definition</p></article>]]></description>
+            <link>https://thegrid.ai/creatinglavie/ethos/index.html</link>
+            <guid isPermaLink="false">966d0cf7-78be-46d6-a753-1a93a5ed12e6</guid>
+            <pubDate>Sun, 08 Nov 2015 18:28:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
