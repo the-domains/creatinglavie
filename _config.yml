@@ -1,20 +1,4 @@
-name: creatinglavie
-favicon: null
-layout_spectrum: 0.75058
 typography_spectrum: 1
-title: Creating Lavie
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#f0e7da'
@@ -26,4 +10,21 @@ color:
   lightness: 0
   saturation: 0.125
   rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.75058
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: creatinglavie
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Creating Lavie
+description: on a quest for great food packaging
 purpose: []
